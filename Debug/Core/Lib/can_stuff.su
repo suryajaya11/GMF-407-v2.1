@@ -1,0 +1,5 @@
+can_stuff.c:24:6:CAN_GeneralSetup	16	static
+can_stuff.c:58:6:HAL_CAN_RxFifo0MsgPendingCallback	16	static
+can_stuff.c:78:6:can_list_extid	24	static
+can_stuff.c:117:6:can_kirim	24	static
+can_stuff.c:128:6:votol_can_req	16	static

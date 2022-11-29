@@ -1,0 +1,6 @@
+radio.c:35:6:start_radio	16	static
+radio.c:39:6:parse_frame	24	static
+radio.c:134:6:clear_buf_changed	8	static
+radio.c:138:9:map_val	40	static
+radio.c:145:7:map_float	40	static
+radio.c:152:6:reset_ctr_radio	4	static

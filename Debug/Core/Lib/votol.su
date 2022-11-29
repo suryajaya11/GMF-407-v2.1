@@ -1,0 +1,3 @@
+votol.c:29:6:start_votol	8	static
+votol.c:37:6:kontrol_votol	16	static
+votol.c:117:6:callback_can_votol	40	static
